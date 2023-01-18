@@ -29,6 +29,8 @@ The designs were created to the following widths:
 
 - Family: [Bai Jamjuree](https://fonts.google.com/specimen/Bai+Jamjuree)
 - Weights: 400, 600
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-family: 'Share Tech Mono', monospace;
 
 ## Icons
 
