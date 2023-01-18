@@ -1,6 +1,9 @@
 body{
   text-align: center;
 }
+main{
+  clear: both;
+}
 
 button {
   border: none;
@@ -17,7 +20,6 @@ button:active{
 
 }
 
-
 .btn-iOS{
   background-color:hsl(171, 66%, 44%);
   box-shadow: 0 5px 0 hsl(171, 68%, 40%);
@@ -29,3 +31,15 @@ button:active{
   box-shadow: 0 5px 0 hsl(233, 71%, 61%);
   color: white;
 }
+ .div-left{
+  float: left;
+ }
+
+ .div-right{
+  float: right;
+ }
+
+.section-one{
+  clear: both;
+ }
+
