@@ -5,11 +5,11 @@
 }
   body{
   text-align: center;
+  font-family: 'Bai Jamjuree', sans-serif;
 }
 main{
   clear: both;
 }
-
 button {
   border: none;
   padding: 10px 10px;
@@ -36,21 +36,26 @@ button:active{
   box-shadow: 0 5px 0 hsl(233, 71%, 61%);
   color: white;
 }
-.container{
+.middle-section{
   display: flex;
   align-items: center;
 }
 
- /* .div-left{
-  float: left;
+ .div-left{
+  padding-left: 20%;
  }
 
  .div-right{
-  float: right;
-  
- } */
+  text-align: left;
+  padding-left: 120px;
+ }
+
+ .pSection{
+  padding-bottom: 20px;
+}
 
 .section-one{
   clear: both;
  }
 
+  
